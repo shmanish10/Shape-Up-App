@@ -1,4 +1,4 @@
-This project is a fork from a GitHub repository, with modifications made to integrate an AI chatbot for personalized fitness assistance.
+This project is a fork from a GitHub repository, with modifications made to integrate an AI chatbot for personalized fitness assistance.This update incorporates a script for Botsonic's AI chatbot API into the project's index.html file. This integration enables the addition of a chatbot functionality, providing users with an interactive way to engage with the project.
 
 🏋️‍♀️ Shape Up: Fitness Website Development
 
