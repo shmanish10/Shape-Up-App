@@ -65,8 +65,10 @@ This app build with below technologies
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Screenshots
-
-![Home Page](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/homepage.png)
+![Updated Home Page](https://github.com/shmanish10/Shape-Up-App/blob/main/screenshots/Screenshot%202024-04-05%20012349.png)
+![AI Chatbot](https://github.com/shmanish10/Shape-Up-App/blob/main/screenshots/Screenshot%202024-04-05%20013137.png)
+![Chatbot Conversatational Response](https://github.com/shmanish10/Shape-Up-App/blob/main/screenshots/Screenshot%202024-04-05%20013603.png)
+![Previous Home Page](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/homepage.png)
 ![Workout Database](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/workout-database.png)
 ![Nutrition Checker](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/nutrition-checker.png)
 ![Diet Profile](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/diet-profile.png)
