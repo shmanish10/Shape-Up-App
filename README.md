@@ -1,38 +1,29 @@
-<h1 align="center">
-Shape Up App
-</h1>
-<p align="center">
-MongoDB, Expressjs, React/Redux, Nodejs
-</p>
+This project is a fork from a GitHub repository, with modifications made to integrate an AI chatbot for personalized fitness assistance.
 
-Shape-Up is an easy-to-use fitness tracking web application. Its main goal is to assist users in their wellness journey, providing tools and features to help them achieve their fitness goals.
+🏋️‍♀️ Shape Up: Fitness Website Development
 
-Your journey to wellness starts here!
+Shape Up is a comprehensive fitness website developed using the MERN stack (MongoDB, Express.js, React.js, Node.js) with an integrated AI chatbot. This project aims to provide users with a personalized fitness experience through intuitive UI/UX and intelligent chatbot interactions.
 
-# Team Members
-- Muhamad Miguel Emmara
-- Travis Ogle
-- Sungwoo Cho
-- Ghokkul Muhunthan
+🤖 AI Chatbot Integration
 
-## Prerequisites
+As part of this group project, my primary responsibility was integrating an AI chatbot using the Botsonic custom AI chatbot API. Leveraging my skills in natural language processing and AI, I trained the chatbot model on fitness-related databases and knowledge bases. This enables the chatbot to provide tailored guidance on workouts, diet plans, athlete insights, and more.
 
-- MonggoDB
-- Node JS
-- NPM
+Key Features:
 
-## Shape Up Features
+User Profiles: Create personalized fitness profiles.
+Workout Planner: Schedule and track workouts.
+Nutrition Tracker: Monitor diet and nutrition intake.
+AI Chatbot Assistance: Instant support and guidance powered by AI.
+Tech Stack:
 
-- Personal Account.
-- Diet Profile.
-- Goal Settings.
-- Meal Planner.
-- Water Intake Log.
-- Workout Database.
-- Nutrition Checker.
-- BMR Calculator.
+Frontend: React.js, Redux
+Backend: Node.js, Express.js
+Database: MongoDB
+AI Chatbot: Botsonic API
+This repository contains the source code for the Shape Up project, including frontend components, backend services, AI chatbot integration, and deployment configurations.
 
-## Getting Started
+🚀 Get Started
+
 Clone the repo
 ```shell
 git clone https://github.com/Shape-Up-NZ/shape-up-app
